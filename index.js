@@ -41,46 +41,46 @@ const managerQuestions = [
 const internQuestions = [
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your name?',
+        name: 'internName',
      },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your ID?',
+        name: 'internID',
     },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your email?',
+        name: 'internEmail',
     },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What school do you attend?',
+        name: 'internSchool',
     },
 ]
 
 const engineerQuestions = [
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'WHat is your name?',
+        name: 'engineerName',
      },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your ID?',
+        name: 'engineerID',
     },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your email?',
+        name: 'engineerEmail',
     },
     {
         type: 'input',
-        message: 'Hello?',
-        name: 'typeOfEmployee',
+        message: 'What is your Github profile name?',
+        name: 'engineerGithub',
     },
 ]
 
